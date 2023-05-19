@@ -1,0 +1,3 @@
+PASS pass
+USER user one for test
+NICK user1

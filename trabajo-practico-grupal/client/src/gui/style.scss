@@ -1,0 +1,47 @@
+.command_sent {
+    background-color: #D2EBD7;
+    border-radius: 10px;
+    color: black;
+    padding: 5px 10px 5px 10px;
+}
+
+.command_response {
+    background-color: #FFC97A;
+    border-radius: 10px;
+    color: black;
+    padding: 5px 10px 5px 10px;
+}
+
+.message_received {
+    background-color: #CD90E6;
+    border-radius: 10px;
+    color: black;
+    padding: 5px 10px 5px 10px;
+}
+
+.error_message {
+    background-color: #DB2E37;
+    border-radius: 10px;
+    color: black;
+    padding: 5px 10px 5px 10px;
+}
+
+.error_label {
+    color: #DB2E37;
+    padding: 10px;
+}
+
+.channel_name {
+    color: #FFC97A;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.channel_topic{
+    color: #FFC97A;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
